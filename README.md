@@ -10,3 +10,5 @@ So that in future if any new document comes in, our model will be effective in d
 without actually looking for word dinosaur in it. 
 
 So that even if someone talks of dinosaur, without using the word dinosaur, our model can pick up the document and state the reference in which it is been written.
+
+Kindly have a look at my notebook added in the repository
